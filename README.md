@@ -16,7 +16,7 @@ We recommend running them in a VM which has no internet connection (or an intern
 GPL 3
 ======
 theZoo - the most awesome free malware database on the air 
-Copyright (C) 2015, Yuval Nativ, Lahad Ludar, 5fingers
+Copyright (C) 2017 Joel Cedras.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -87,7 +87,7 @@ An example line will look as follow:
 Bugs and Reports
 ================
 The repository holding all files is currently 
-	https://github.com/ytisf/theZoo
+	https://github.com/Joel-Cedras/TheZoo
 
 ## Change Log for v0.60:
 - [x] Moved DB to SQLite3.
@@ -127,4 +127,4 @@ The repository holding all files is currently
 - [ ] Move malwares to another repo.
 - [ ] Better UI features.
 
-If you have any suggestions or malware that you have indexed (in the manner laid out in the documentation) please send it to us to - yuval[]morirt [dot]com - so we can add it for everyones enjoyment.
+If you have any suggestions or malware that you have indexed (in the manner laid out in the documentation) please send it to us to - joelcedras[@]gmail[dot]com - so we can add it for everyones enjoyment.
